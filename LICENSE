@@ -350,7 +350,7 @@ library.  If this is what you want to do, use the GNU Lesse
 
 This project also includes the following third-party components:
 
-1. LuaJIT
+1. LuaJIT, Musl Libc
    - License: MIT
    - See: https://opensource.org/licenses/MIT
    - Note: These components are included under the MIT license, which
