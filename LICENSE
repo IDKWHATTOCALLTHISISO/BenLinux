@@ -1,3 +1,13 @@
+My Project Name
+Copyright (c) 2025 Your Name
+
+This project is licensed under the GNU General Public License v2 (GPLv2). 
+You may redistribute and/or modify it under the terms of the GPLv2 as 
+published by the Free Software Foundation.
+
+Full text of GPLv2 follows:
+
+-------------------- BEGIN GPLv2 --------------------
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
@@ -335,5 +345,26 @@ necessary.  Here is a sample; alter the names:
 This General Public License does not permit incorporating your program into
 proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
-library.  If this is what you want to do, use the GNU Lesser General
+library.  If this is what you want to do, use the GNU Lesse
+-------------------- END GPLv2 ----------------------
+
+This project also includes the following third-party components:
+
+1. MIT-Licensed Components
+   - License: MIT
+   - See: https://opensource.org/licenses/MIT
+   - Note: These components are included under the MIT license, which
+     permits use, modification, and distribution. Their use does not
+     change the overall GPLv2 licensing of this project.
+
+2. 0BSD-Licensed Components
+   - License: 0BSD
+   - See: https://opensource.org/licenses/0BSD
+   - Note: These components are included under the 0BSD license, which
+     places no restrictions on their use. Their use does not change
+     the overall GPLv2 licensing of this project.
+
+By using, modifying, or redistributing this project, you agree to comply
+with the GPLv2 terms. For more details, see the full GPLv2 text above.r General
 Public License instead of this License.
+
