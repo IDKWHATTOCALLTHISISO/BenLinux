@@ -350,14 +350,14 @@ library.  If this is what you want to do, use the GNU Lesse
 
 This project also includes the following third-party components:
 
-1. MIT-Licensed Components
+1. LuaJIT
    - License: MIT
    - See: https://opensource.org/licenses/MIT
    - Note: These components are included under the MIT license, which
      permits use, modification, and distribution. Their use does not
      change the overall GPLv2 licensing of this project.
 
-2. 0BSD-Licensed Components
+2. Toybox
    - License: 0BSD
    - See: https://opensource.org/licenses/0BSD
    - Note: These components are included under the 0BSD license, which
